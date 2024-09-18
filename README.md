@@ -1,4 +1,4 @@
-- 👋 Hi, 大家好，我是程序员风筑，2012年本科毕业，曾就职于阿里云，高德
+- 👋 Hi, 大家好，我是程序员风筑，前阿里云工程师，现某大厂架构师
 - Tech stack: Java, Spring Boot, MySQL, Redis, Linux...
 - [B站视频教程地址](https://space.bilibili.com/123331675)
 <!---
